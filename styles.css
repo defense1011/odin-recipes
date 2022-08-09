@@ -1,0 +1,29 @@
+
+
+.lists,
+#header1 {
+    color:green;
+    background-color:gold;
+    text-align:center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header2 {
+    color:gold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.para {
+    color: green;
+    text-align:center;
+}
+a {
+    color:green;
+
+}
+
+.foodpics {
+    text-align: center;
+    
+}
